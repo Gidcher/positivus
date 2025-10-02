@@ -6,7 +6,7 @@
 }
 
 .visible-mobile {
-    @include mobile {
+    @include mobile-above {
         display: none !important;
     }
 }

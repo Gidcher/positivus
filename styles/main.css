@@ -144,7 +144,7 @@ svg * {
   padding-inline: var(--container-padding-x);
 }
 
-@media (max-width: 767px) {
+@media (min-width: 768px) {
   .visible-mobile {
     display: none !important;
   }
@@ -164,8 +164,7 @@ svg * {
   border: 0 !important;
   padding: 0 !important;
   white-space: nowrap !important;
-  -webkit-clip-path: inset(100%) !important;
-          clip-path: inset(100%) !important;
+  clip-path: inset(100%) !important;
   clip: rect(0 0 0 0) !important;
   overflow: hidden !important;
 }
@@ -895,8 +894,7 @@ h4, .h4 {
     border: 0 !important;
     padding: 0 !important;
     white-space: nowrap !important;
-    -webkit-clip-path: inset(100%) !important;
-            clip-path: inset(100%) !important;
+    clip-path: inset(100%) !important;
     clip: rect(0 0 0 0) !important;
     overflow: hidden !important;
   }
@@ -1365,8 +1363,7 @@ h4, .h4 {
   background-color: var(--color-dark);
   border: inherit;
   rotate: 45deg;
-  -webkit-clip-path: polygon(100% 0, 0% 100%, 100% 100%);
-          clip-path: polygon(100% 0, 0% 100%, 100% 100%);
+  clip-path: polygon(100% 0, 0% 100%, 100% 100%);
   translate: 0 -50%;
 }
 .review-card__footer {
@@ -1656,4 +1653,4 @@ h4, .h4 {
   .footer__privacy-policy-link:active {
     color: var(--color-accent);
   }
-}/*# sourceMappingURL=styles.css.map */
+}/*# sourceMappingURL=main.css.map */
