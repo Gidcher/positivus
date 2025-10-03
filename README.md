@@ -1,8 +1,8 @@
 # Positivus
 
-This project realized a one-page adaptive website for the marketing company “Positivus”.  
+This project realized a one-page adaptive website for the marketing company “Positivus”.
 
-BEM methodology was used in the development process.
+![Скриншот](images/readme/screenshot-1.jpg)
 
 [Layout link](https://www.figma.com/design/racHPrMNd7jO0XgXQPpE7w/Positivus-Landing-Page-Design-(Community)?node-id=25-145&node-type=canvas&t=VnQxxi13mrxhlqsd-0)
 
